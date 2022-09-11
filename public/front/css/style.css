@@ -1,0 +1,357 @@
+        body {
+            font-family: "Montserrat";
+        }
+        
+        .navbar {
+            background-color: #ffffff;
+        }
+        
+        .nav-item {
+            margin-right: 24px;
+            font-weight: 200;
+        }
+        
+        .nav-item.active a {
+            color: #1abc9c !important;
+            font-weight: 600;
+        }
+        
+        .btn {
+            font-weight: 600;
+            margin-right: 10px;
+        }
+        
+        .container .navbar-brand img {
+            height: 30px;
+            width: 105px;
+        }
+        /* Carousel */
+        
+        .carousel .carusel-tanda {
+            top: -100px;
+        }
+        
+        .carousel {
+            height: 449px;
+        }
+        
+        .carousel img {
+            height: 449px;
+        }
+        
+        .carousel-inner .carousel-item .title {
+            font-weight: 800;
+            top: -310px;
+            position: relative;
+            color: #ffffff;
+            right: -200px;
+        }
+        
+        .carousel-inner .carousel-item p {
+            top: -310px;
+            font-weight: 400;
+            position: relative;
+            color: #ffffff;
+            right: -200px;
+        }
+        
+        .carousel-inner .carousel-item .btn {
+            position: relative;
+            right: -200px;
+            top: -290px;
+            font-weight: 200;
+        }
+        /* Mitra */
+        /* Features */
+        
+        .features h3 {
+            font-family: "Lora";
+            color: #1b2690;
+            font-weight: bold;
+        }
+        
+        .features p {
+            font-weight: 200;
+            color: #b7b7b7;
+        }
+        
+        .figure h5 {
+            color: black;
+        }
+        
+        .product-thumbnail-home {
+            height: 153px;
+            width: 250px;
+            position: relative;
+        }
+        
+        .product-thumbnail-home a {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgb(0, 0, 0, 0.7);
+            opacity: 0;
+            transition: opacity 0.5s;
+        }
+        
+        .product-thumbnail-home:hover a {
+            opacity: 1;
+        }
+        
+        .see-all {
+            color: #1b2690;
+            font-weight: 600;
+        }
+        
+        .blog img {
+            height: 300px;
+            width: 400px;
+        }
+        
+        .blog h3 {
+            font-family: "Lora";
+            font-weight: bold;
+            color: #1b2690;
+        }
+        
+        .blog p {
+            font-weight: 400;
+        }
+        
+        footer .logo {
+            width: 300px;
+            height: 64px;
+        }
+        
+        .container .breadcrumb {
+            margin-top: 70px;
+        }
+        
+        .product-thumbnail-container {
+            margin: auto;
+            box-shadow: 0px 4px 15px rgb(0, 0, 0, 0.1);
+            width: 360px;
+            padding: 8px;
+            background-color: white;
+            transform: translateY(-50px);
+        }
+        
+        .product-thumbnail-container a:hover {
+            text-decoration: none;
+        }
+        /* button */
+        
+        .btn-product {
+            margin: 50px 0px;
+            padding-bottom: 50px;
+            border-bottom: 1px solid #eaeaef;
+        }
+        
+        .btn-product .btn {
+            display: block;
+            margin: 10px 0px;
+        }
+        /* Product-Description */
+        
+        .product-description {
+            background-color: #F6F7FB;
+            height: 350px;
+        }
+        
+        .product-description .product-description-item {
+            height: 300px;
+            overflow: scroll;
+        }
+        
+        .product-description .tab-content {
+            background-color: #fff;
+            border: 1px solid #dee2e6;
+            border-top: 0;
+            box-shadow: 0 4px 15px rgb(0, 0, 0, 0.06);
+        }
+        
+        .product-description .tab-content p {
+            font-weight: 200;
+            font-size: 16px;
+            color: #868686;
+            line-height: 28px;
+        }
+        
+        .img-review {
+            height: 300px;
+            overflow: scroll;
+        }
+        
+        .img-review img {
+            height: 50px;
+            width: 50px;
+            border: 3px solid #fff;
+            margin: 1px;
+        }
+        
+        .img-background .img-account {
+            height: 40px;
+            width: 40px;
+            border: 3px solid #fff;
+            margin: 1px;
+        }
+        
+        .img-review .img-background {
+            width: 52px;
+            height: 52px;
+            background-color: #d5d5d5;
+            border-radius: 50px;
+        }
+        
+        .img-background {
+            width: 42px;
+            height: 42px;
+            background-color: #d5d5d5;
+            border-radius: 50px;
+        }
+        
+        .img-background p {
+            color: #adadad;
+        }
+        
+        .img-review h5 {
+            margin-top: 5px;
+            font-size: 18px;
+            margin-bottom: 0px;
+        }
+        
+        .img-review p {
+            color: #adadad;
+            font-size: 14px !important;
+        }
+        
+        .similar-product h3,
+        .related-article h3 {
+            font-family: 'Lora';
+            font-weight: bold;
+            color: #1B2690;
+        }
+        
+        .similar-product p {
+            font-weight: 400;
+            color: #B7B7B7;
+        }
+        
+        .similar img {
+            width: 30%;
+        }
+        /* Cart */
+        
+        .cart-header h3 {
+            font-weight: 600;
+            font-family: 'Lora';
+            color: #1B2690;
+        }
+        
+        .cart-header p {
+            font-weight: 400;
+            color: #B7B7B7;
+        }
+        
+        .container .cart-breadcrumb {
+            margin-top: 0px;
+        }
+        
+        .checkout img {
+            width: 60px;
+            height: 60px;
+        }
+        
+        .checkout-title {
+            font-family: 'Lora';
+            font-weight: bold;
+        }
+        
+        .checkout-detail {
+            background-color: #F6F7FB;
+            border: 1px solid #EAEAEA;
+            color: #171717;
+        }
+        
+        .notif-success h3 {
+            color: #1B2690;
+            font-family: 'Lora';
+            font-weight: bold;
+        }
+        
+        .notif-success img {
+            width: 35%;
+        }
+        /* Cart End */
+        /* Blog */
+        
+        .img-header img {
+            width: 100%;
+            height: 350px;
+        }
+        
+        .article {
+            margin-bottom: 0px;
+        }
+        
+        .figure h5 {
+            color: black;
+        }
+        
+        .figure-caption a {
+            text-decoration: none;
+        }
+        
+        .card-blog {
+            border: 0px;
+        }
+        
+        .card-blog h3 {
+            font-family: 'Lora';
+            font-weight: 600;
+        }
+        
+        .img-related img {
+            width: 100%;
+            height: 90%;
+        }
+        
+        .img-related h5 {
+            font-weight: 600;
+            color: #171717;
+        }
+        
+        .img-related a {
+            text-decoration: none;
+        }
+        /* Blog End */
+        /* Login */
+        
+        .bg-login1 {
+            background-color: transparent;
+        }
+        
+        .bg-login2 {
+            height: 50%;
+            width: 300px;
+        }
+        /* Login End */
+        /* About*/
+        
+        .body-about .figure img {
+            width: 30%;
+            height: 30%;
+        }
+        
+        .figure-gambar img {
+            width: 200px;
+            height: 100px;
+        }
+        
+        .figure-gambar-tentang img {
+            width: 200px;
+            height: 50px;
+        }
+        /* About End */
