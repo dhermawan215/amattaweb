@@ -369,6 +369,7 @@
         }
         .cardbody:hover{
             background-color: greenyellow;
+            box-shadow: #171717;
        
         }
 
