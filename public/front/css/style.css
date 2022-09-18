@@ -1,5 +1,9 @@
+        *{
+            font-family: 'Poppins';
+        }
+        
         body {
-            font-family: "Montserrat";
+            font-family: 'Poppins';
         }
         
         .navbar {
