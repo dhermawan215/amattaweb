@@ -9,6 +9,9 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{ asset('/front/css/bootstrap.css') }}" />
 
+    {{-- bostrap icon --}}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+
     <!-- My CSS -->
     <link rel="stylesheet" href="{{ asset('/front/css/style.css') }}" />
 

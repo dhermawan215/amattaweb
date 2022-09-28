@@ -75,13 +75,44 @@
                     </div>
                 </div>
             </div>
-
-
-
-
-
         </div>
+        <div class="container mt-3 px-2 my-2">
+            <div class="row px-xl-3 pb-3">
+                <div class="col-lg-3 col-md-6 col-sm-12 pb-2">
+                    <div class="d-flex align-items-center mb-2 border border-2 shadow-sm">
+                        <h1 class="text-info px-3 mt-1 py-2"><i class="bi bi-check-lg"></i></h1>
+                        <h5 class="font-weight-semi-bold px-2 py-2 m-1">Qualitas Terjamin</h5>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12 pb-2">
+                    <div class="d-flex align-items-center mb-2 border border-2 shadow-sm">
+                        <h1 class="text-info px-3 mt-1 py-2"><i class="bi bi-credit-card-2-front"></i></h1>
+                        <h5 class="font-weight-semi-bold px-2 py-2 m-1">Pembayarn Terpadu</h5>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12 pb-2">
+                    <div class="d-flex align-items-center mb-2 border border-2 shadow-sm">
+                        <h1 class="text-info px-3 mt-1 py-2"><i class="bi bi-truck"></i></h1>
+                        <h5 class="font-weight-semi-bold px-2 py-2 m-1">Pengiriman Terpadu</h5>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12 pb-2">
+                    <div class="d-flex align-items-center mb-2 border border-2 shadow-sm">
+                        <h1 class="text-info px-3 mt-1 py-2"><i class="bi bi-telephone-inbound"></i></h1>
+                        <h5 class="font-weight-semi-bold px-2 py-2 m-1">Dukungan CS 24/7</h5>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
     </section>
+
+
 
 
     <section class="features pt-2">
