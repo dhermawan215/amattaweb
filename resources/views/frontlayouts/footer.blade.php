@@ -9,7 +9,7 @@
                 <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3 d-inline-flex">
                     <div class="col-md-3 ">
                         <a href="">
-                            <img src="img/logo/logo-header.png" class="logo" />
+                            <img src="{{ asset('/front/img/logo/logo-header.png') }}" class="logo" />
                         </a>
                     </div>
 
@@ -54,7 +54,7 @@
     <!-- Grid container -->
 
     <!-- Copyright -->
-    <div class="text-center p-3" style="background-color: rgba(31, 30, 30, 0.406)">
+    <div class="text-center p-3" style="background-color: rgba(71, 71, 71, 0.406)">
         © 2022 Copyright:
         <a class="text-white" href="#">Amatta Farm</a>
     </div>
