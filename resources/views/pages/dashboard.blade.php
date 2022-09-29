@@ -111,143 +111,18 @@
         </div>
 
     </section>
-
-
-
-
     <section class="features pt-2">
         <div class="container">
             <div class="row mb-2">
-                <div class="col">
-                    <h3>New Product</h3>
-                    <p>We only provide the best product </p>
+                <div class="col-lg-12">
+                    <div class="section-title">
+                        <h3>New Product</h3>
+                        <hr class="underline">
+                        <p class="text-secondary">We only provide the best product </p>
+                    </div>
                 </div>
             </div>
 
-            <div class="row mb-0">
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <figure class="figure">
-                        <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Bayam Hijau/bayamhijau1.jpg"
-                                class="figure-img product-thumbnail-home img-fluid rounded" />
-                            <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
-                            </a>
-                        </div>
-                        <figcaption class="figure-caption">
-                            <h5>Bayam Hijau</h5>
-                            <p>IDR 6000</p>
-                        </figcaption>
-                    </figure>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <figure class="figure">
-                        <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Caisim/caisim1.jpg"
-                                class="figure-img product-thumbnail-home img-fluid rounded" />
-                            <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
-                            </a>
-                        </div>
-                        <figcaption class="figure-caption">
-                            <h5>Caisim</h5>
-                            <p>IDR 6000</p>
-                        </figcaption>
-                    </figure>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <figure class="figure">
-                        <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Kangkung/kangkung1.jpg"
-                                class="figure-img product-thumbnail-home img-fluid rounded" />
-                            <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
-                            </a>
-                        </div>
-                        <figcaption class="figure-caption">
-                            <h5>Bayam Merah</h5>
-                            <p>IDR 6000</p>
-                        </figcaption>
-                    </figure>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <figure class="figure">
-                        <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Bayam Merah/bayammerah1.jpg"
-                                class="figure-img product-thumbnail-home img-fluid rounded" />
-                            <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
-                            </a>
-                        </div>
-                        <figcaption class="figure-caption">
-                            <h5>Kangkung</h5>
-                            <p>IDR 6000</p>
-                        </figcaption>
-                    </figure>
-                </div>
-            </div>
-            <div class="row mb-0">
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <figure class="figure">
-                        <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Bayam Hijau/bayamhijau1.jpg"
-                                class="figure-img product-thumbnail-home img-fluid rounded" />
-                            <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
-                            </a>
-                        </div>
-                        <figcaption class="figure-caption">
-                            <h5>Bayam Hijau</h5>
-                            <p>IDR 6000</p>
-                        </figcaption>
-                    </figure>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <figure class="figure">
-                        <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Caisim/caisim1.jpg"
-                                class="figure-img product-thumbnail-home img-fluid rounded" />
-                            <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
-                            </a>
-                        </div>
-                        <figcaption class="figure-caption">
-                            <h5>Caisim</h5>
-                            <p>IDR 6000</p>
-                        </figcaption>
-                    </figure>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <figure class="figure">
-                        <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Kangkung/kangkung1.jpg"
-                                class="figure-img product-thumbnail-home img-fluid rounded" />
-                            <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
-                            </a>
-                        </div>
-                        <figcaption class="figure-caption">
-                            <h5>Bayam Merah</h5>
-                            <p>IDR 6000</p>
-                        </figcaption>
-                    </figure>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <figure class="figure">
-                        <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Bayam Merah/bayammerah1.jpg"
-                                class="figure-img product-thumbnail-home img-fluid rounded" />
-                            <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
-                            </a>
-                        </div>
-                        <figcaption class="figure-caption">
-                            <h5>Kangkung</h5>
-                            <p>IDR 6000</p>
-                        </figcaption>
-                    </figure>
-                </div>
-            </div>
             <div class="row mb-0">
                 <div class="col-12 col-sm-6 col-lg-3">
                     <figure class="figure">
@@ -373,5 +248,99 @@
                 </div>
             </div>
         </div>
+    </section>
+
+    <section class="features p-2 m-4">
+        <div class="container">
+            <div class="row flex">
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="baner-pic">
+                        <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                            alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="baner-pic">
+                        <img src="https://images.unsplash.com/photo-1606787366850-de6330128bfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                            alt="">
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="features p-2 m-2">
+        <div class="container">
+            <div class="row mb-2">
+                <div class="col-lg-12">
+                    <div class="section-title">
+                        <h3>From The Blog</h3>
+                        <hr class="underline">
+                    </div>
+                </div>
+            </div>
+            <div class="row mb-0">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <figure class="figure">
+                        <div class="figure-img product-thumbnail-home">
+                            <img src="img/produck/Bayam Hijau/bayamhijau1.jpg"
+                                class="figure-img product-thumbnail-home img-fluid rounded" />
+                            <a href="" class="d-flex justify-content-center">
+                                <img src="img/icon/plus.png" class="align-self-center" />
+                            </a>
+                        </div>
+                        <figcaption class="figure-caption">
+                            <h5>Bayam Hijau</h5>
+                            <p>IDR 6000</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <figure class="figure">
+                        <div class="figure-img product-thumbnail-home">
+                            <img src="img/produck/Caisim/caisim1.jpg"
+                                class="figure-img product-thumbnail-home img-fluid rounded" />
+                            <a href="" class="d-flex justify-content-center">
+                                <img src="img/icon/plus.png" class="align-self-center" />
+                            </a>
+                        </div>
+                        <figcaption class="figure-caption">
+                            <h5>Caisim</h5>
+                            <p>IDR 6000</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <figure class="figure">
+                        <div class="figure-img product-thumbnail-home">
+                            <img src="img/produck/Kangkung/kangkung1.jpg"
+                                class="figure-img product-thumbnail-home img-fluid rounded" />
+                            <a href="" class="d-flex justify-content-center">
+                                <img src="img/icon/plus.png" class="align-self-center" />
+                            </a>
+                        </div>
+                        <figcaption class="figure-caption">
+                            <h5>Bayam Merah</h5>
+                            <p>IDR 6000</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <figure class="figure">
+                        <div class="figure-img product-thumbnail-home">
+                            <img src="img/produck/Bayam Merah/bayammerah1.jpg"
+                                class="figure-img product-thumbnail-home img-fluid rounded" />
+                            <a href="" class="d-flex justify-content-center">
+                                <img src="img/icon/plus.png" class="align-self-center" />
+                            </a>
+                        </div>
+                        <figcaption class="figure-caption">
+                            <h5>Kangkung</h5>
+                            <p>IDR 6000</p>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
     </section>
 @endsection

@@ -1,0 +1,26 @@
+body {
+  font-family: 'Poppins';
+}
+
+.section-title {
+  text-align: center;
+}
+
+.section-title .underline {
+  height: 4px;
+  width: 120px;
+  margin-top: 10px;
+  bottom: -10px;
+  background-color: #17a2b8;
+}
+
+.baner-pic {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.baner-pic img {
+  max-width: 100%;
+  border-radius: 12px;
+}
+/*# sourceMappingURL=main.css.map */

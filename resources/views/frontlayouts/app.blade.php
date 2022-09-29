@@ -17,6 +17,7 @@
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="{{ asset('/front/css/all.css') }}" />
+    <link rel="stylesheet" href="{{ asset('/css/main.css') }}" />
 
     <!-- Google Font -->
     <link rel="preconnect" href="https://fonts.gstatic.com" />
