@@ -127,10 +127,10 @@
                 <div class="col-12 col-sm-6 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Bayam Hijau/bayamhijau1.jpg"
+                            <img src="https://images.unsplash.com/photo-1615485290382-441e4d049cb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
                                 class="figure-img product-thumbnail-home img-fluid rounded" />
                             <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
+                                <img src="{{ asset('front/img/icon/plus.png') }}" class="align-self-center" />
                             </a>
                         </div>
                         <figcaption class="figure-caption">
@@ -142,10 +142,10 @@
                 <div class="col-12 col-sm-6 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Caisim/caisim1.jpg"
+                            <img src="https://images.unsplash.com/photo-1585849834908-3481231155e8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
                                 class="figure-img product-thumbnail-home img-fluid rounded" />
                             <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
+                                <img src="{{ asset('front/img/icon/plus.png') }}" class="align-self-center" />
                             </a>
                         </div>
                         <figcaption class="figure-caption">
@@ -157,10 +157,10 @@
                 <div class="col-12 col-sm-6 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Kangkung/kangkung1.jpg"
+                            <img src="https://images.unsplash.com/photo-1587411768515-eeac0647deed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
                                 class="figure-img product-thumbnail-home img-fluid rounded" />
                             <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
+                                <img src="{{ asset('front/img/icon/plus.png') }}" class="align-self-center" />
                             </a>
                         </div>
                         <figcaption class="figure-caption">
@@ -172,10 +172,10 @@
                 <div class="col-12 col-sm-6 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Bayam Merah/bayammerah1.jpg"
+                            <img src="https://images.unsplash.com/photo-1570586437263-ab629fccc818?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
                                 class="figure-img product-thumbnail-home img-fluid rounded" />
                             <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
+                                <img src="{{ asset('front/img/icon/plus.png') }}" class="align-self-center" />
                             </a>
                         </div>
                         <figcaption class="figure-caption">
@@ -189,10 +189,10 @@
                 <div class="col-12 col-sm-6 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Bayam Hijau/bayamhijau1.jpg"
+                            <img src="https://images.unsplash.com/photo-1567375698348-5d9d5ae99de0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
                                 class="figure-img product-thumbnail-home img-fluid rounded" />
                             <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
+                                <img src="{{ asset('front/img/icon/plus.png') }}" class="align-self-center" />
                             </a>
                         </div>
                         <figcaption class="figure-caption">
@@ -204,10 +204,10 @@
                 <div class="col-12 col-sm-6 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Caisim/caisim1.jpg"
+                            <img src="https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
                                 class="figure-img product-thumbnail-home img-fluid rounded" />
                             <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
+                                <img src="{{ asset('front/img/icon/plus.png') }}" class="align-self-center" />
                             </a>
                         </div>
                         <figcaption class="figure-caption">
@@ -219,10 +219,10 @@
                 <div class="col-12 col-sm-6 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Kangkung/kangkung1.jpg"
+                            <img src="https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
                                 class="figure-img product-thumbnail-home img-fluid rounded" />
                             <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
+                                <img src="{{ asset('front/img/icon/plus.png') }}" class="align-self-center" />
                             </a>
                         </div>
                         <figcaption class="figure-caption">
@@ -234,10 +234,10 @@
                 <div class="col-12 col-sm-6 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Bayam Merah/bayammerah1.jpg"
+                            <img src="https://images.unsplash.com/photo-1526346698789-22fd84314424?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
                                 class="figure-img product-thumbnail-home img-fluid rounded" />
                             <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
+                                <img src="{{ asset('front/img/icon/plus.png') }}" class="align-self-center" />
                             </a>
                         </div>
                         <figcaption class="figure-caption">
@@ -249,6 +249,8 @@
             </div>
         </div>
     </section>
+
+    {{-- bagian baner promo --}}
 
     <section class="features p-2 m-4">
         <div class="container">
@@ -280,66 +282,144 @@
                     </div>
                 </div>
             </div>
-            <div class="row mb-0">
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <figure class="figure">
-                        <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Bayam Hijau/bayamhijau1.jpg"
-                                class="figure-img product-thumbnail-home img-fluid rounded" />
-                            <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
-                            </a>
+            <div class="row mb-3">
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-4 mb-2">
+                    <div class="card boder shadow-sm card-blog card-custom">
+                        <img src="https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=601&q=80"
+                            class="card-img-top card-img-custom" alt="Hollywood Sign on The Hill" />
+                        <div class="card-body">
+                            <div class="row m-1 p-1">
+                                <i class="bi bi-calendar text-info"></i><span
+                                    class="ml-1 font-weight-medium">22/09/2022</span>
+                            </div>
+                            <div class="row m-1 p-1">
+                                <h5 class="card-title font-weight-bold">Judul Postingan</h5>
+                                <p class="card-text">
+                                    This is a longer card with supporting text below as a natural lead-in to
+                                    additional content. This content is a little bit longer.
+                                </p>
+                            </div>
                         </div>
-                        <figcaption class="figure-caption">
-                            <h5>Bayam Hijau</h5>
-                            <p>IDR 6000</p>
-                        </figcaption>
-                    </figure>
+                        <div class="card-footer card-footer-custom">
+                            <a href="" class="text-info text-decoration-none">Read More <i
+                                    class="bi bi-arrow-right-short"></i></a>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <figure class="figure">
-                        <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Caisim/caisim1.jpg"
-                                class="figure-img product-thumbnail-home img-fluid rounded" />
-                            <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
-                            </a>
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-4 mb-2">
+                    <div class="card boder shadow-sm card-blog card-custom">
+                        <img src="https://images.unsplash.com/photo-1518843875459-f738682238a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=842&q=80"
+                            class="card-img-top card-img-custom" alt="Hollywood Sign on The Hill" />
+                        <div class="card-body">
+                            <div class="row m-1 p-1">
+                                <i class="bi bi-calendar text-info"></i><span
+                                    class="ml-1 font-weight-medium">22/09/2022</span>
+                            </div>
+                            <div class="row m-1 p-1">
+                                <h5 class="card-title font-weight-bold">Judul Postingan</h5>
+                                <p class="card-text">
+                                    This is a longer card with supporting text below as a natural lead-in to
+                                    additional content. This content is a little bit longer.
+                                </p>
+                            </div>
                         </div>
-                        <figcaption class="figure-caption">
-                            <h5>Caisim</h5>
-                            <p>IDR 6000</p>
-                        </figcaption>
-                    </figure>
+                        <div class="card-footer card-footer-custom">
+                            <a href="" class="text-info text-decoration-none">Read More <i
+                                    class="bi bi-arrow-right-short"></i></a>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <figure class="figure">
-                        <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Kangkung/kangkung1.jpg"
-                                class="figure-img product-thumbnail-home img-fluid rounded" />
-                            <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
-                            </a>
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-4 mb-2">
+                    <div class="card boder shadow-sm card-blog card-custom">
+                        <img src="https://images.unsplash.com/photo-1574316071802-0d684efa7bf5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+                            class="card-img-top card-img-custom" alt="Hollywood Sign on The Hill" />
+                        <div class="card-body">
+                            <div class="row m-1 p-1">
+                                <i class="bi bi-calendar text-info"></i><span
+                                    class="ml-1 font-weight-medium">22/09/2022</span>
+                            </div>
+                            <div class="row m-1 p-1">
+                                <h5 class="card-title font-weight-bold">Judul Postingan</h5>
+                                <p class="card-text">
+                                    This is a longer card with supporting text below as a natural lead-in to
+                                    additional content. This content is a little bit longer.
+                                </p>
+                            </div>
                         </div>
-                        <figcaption class="figure-caption">
-                            <h5>Bayam Merah</h5>
-                            <p>IDR 6000</p>
-                        </figcaption>
-                    </figure>
+                        <div class="card-footer card-footer-custom">
+                            <a href="" class="text-info text-decoration-none">Read More <i
+                                    class="bi bi-arrow-right-short"></i></a>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <figure class="figure">
-                        <div class="figure-img product-thumbnail-home">
-                            <img src="img/produck/Bayam Merah/bayammerah1.jpg"
-                                class="figure-img product-thumbnail-home img-fluid rounded" />
-                            <a href="" class="d-flex justify-content-center">
-                                <img src="img/icon/plus.png" class="align-self-center" />
-                            </a>
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-4 mb-2">
+                    <div class="card boder shadow-sm card-blog card-custom">
+                        <img src="https://images.unsplash.com/photo-1576045057995-568f588f82fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+                            class="card-img-top card-img-custom" alt="Hollywood Sign on The Hill" />
+                        <div class="card-body">
+                            <div class="row m-1 p-1">
+                                <i class="bi bi-calendar text-info"></i><span
+                                    class="ml-1 font-weight-medium">22/09/2022</span>
+                            </div>
+                            <div class="row m-1 p-1">
+                                <h5 class="card-title font-weight-bold">Judul Postingan</h5>
+                                <p class="card-text">
+                                    This is a longer card with supporting text below as a natural lead-in to
+                                    additional content. This content is a little bit longer.
+                                </p>
+                            </div>
                         </div>
-                        <figcaption class="figure-caption">
-                            <h5>Kangkung</h5>
-                            <p>IDR 6000</p>
-                        </figcaption>
-                    </figure>
+                        <div class="card-footer card-footer-custom">
+                            <a href="" class="text-info text-decoration-none">Read More <i
+                                    class="bi bi-arrow-right-short"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-4 mb-2">
+                    <div class="card boder shadow-sm card-blog card-custom">
+                        <img src="https://images.unsplash.com/photo-1620706857370-e1b9770e8bb1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+                            class="card-img-top card-img-custom" alt="Hollywood Sign on The Hill" />
+                        <div class="card-body">
+                            <div class="row m-1 p-1">
+                                <i class="bi bi-calendar text-info"></i><span
+                                    class="ml-1 font-weight-medium">22/09/2022</span>
+                            </div>
+                            <div class="row m-1 p-1">
+                                <h5 class="card-title font-weight-bold">Judul Postingan</h5>
+                                <p class="card-text">
+                                    This is a longer card with supporting text below as a natural lead-in to
+                                    additional content. This content is a little bit longer.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="card-footer card-footer-custom">
+                            <a href="" class="text-info text-decoration-none">Read More <i
+                                    class="bi bi-arrow-right-short"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 mt-4 mb-2">
+                    <div class="card boder shadow-sm card-blog card-custom">
+                        <img src="https://images.unsplash.com/photo-1553395572-0ef353a212bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+                            class="card-img-top card-img-custom" alt="Hollywood Sign on The Hill" />
+                        <div class="card-body">
+                            <div class="row m-1 p-1">
+                                <i class="bi bi-calendar text-info"></i><span
+                                    class="ml-1 font-weight-medium">22/09/2022</span>
+                            </div>
+                            <div class="row m-1 p-1">
+                                <h5 class="card-title font-weight-bold">Judul Postingan</h5>
+                                <p class="card-text">
+                                    This is a longer card with supporting text below as a natural lead-in to
+                                    additional content. This content is a little bit longer.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="card-footer card-footer-custom">
+                            <a href="" class="text-info text-decoration-none">Read More <i
+                                    class="bi bi-arrow-right-short"></i></a>
+                        </div>
+                    </div>
                 </div>
             </div>
     </section>
