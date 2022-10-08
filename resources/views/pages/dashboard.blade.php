@@ -123,8 +123,8 @@
                 </div>
             </div>
 
-            <div class="row mb-0">
-                <div class="col-12 col-sm-6 col-lg-3">
+            <div class="row mb-0 text-center">
+                <div class="col-md-6 col-sm-12 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
                             <img src="https://images.unsplash.com/photo-1615485290382-441e4d049cb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
@@ -139,7 +139,7 @@
                         </figcaption>
                     </figure>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3">
+                <div class="col-sm-12 col-md-6 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
                             <img src="https://images.unsplash.com/photo-1585849834908-3481231155e8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
@@ -154,7 +154,7 @@
                         </figcaption>
                     </figure>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3">
+                <div class="col-md-6 col-sm-12 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
                             <img src="https://images.unsplash.com/photo-1587411768515-eeac0647deed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
@@ -169,7 +169,7 @@
                         </figcaption>
                     </figure>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3">
+                <div class="col-md-6 col-sm-12 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
                             <img src="https://images.unsplash.com/photo-1570586437263-ab629fccc818?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
@@ -185,8 +185,8 @@
                     </figure>
                 </div>
             </div>
-            <div class="row mb-0">
-                <div class="col-12 col-sm-6 col-lg-3">
+            <div class="row mb-0 text-center">
+                <div class="col-md-6 col-sm-12 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
                             <img src="https://images.unsplash.com/photo-1567375698348-5d9d5ae99de0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
@@ -201,7 +201,7 @@
                         </figcaption>
                     </figure>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3">
+                <div class="col-md-6 col-sm-12 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
                             <img src="https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
@@ -216,7 +216,7 @@
                         </figcaption>
                     </figure>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3">
+                <div class="col-md-6 col-sm-12 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
                             <img src="https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
@@ -231,7 +231,7 @@
                         </figcaption>
                     </figure>
                 </div>
-                <div class="col-12 col-sm-6 col-lg-3">
+                <div class="col-md-6 col-sm-12 col-lg-3">
                     <figure class="figure">
                         <div class="figure-img product-thumbnail-home">
                             <img src="https://images.unsplash.com/photo-1526346698789-22fd84314424?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
@@ -245,6 +245,12 @@
                             <p>IDR 6000</p>
                         </figcaption>
                     </figure>
+                </div>
+            </div>
+
+            <div class="row mb-2">
+                <div class="col-lg-12 text-center">
+                    <a href="#" class="btn btn-outline-secondary">Load More</a>
                 </div>
             </div>
         </div>
@@ -420,6 +426,11 @@
                                     class="bi bi-arrow-right-short"></i></a>
                         </div>
                     </div>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-lg-12 text-center">
+                    <a href="#" class="btn btn-outline-secondary">Read More</a>
                 </div>
             </div>
     </section>
