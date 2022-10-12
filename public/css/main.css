@@ -14,6 +14,22 @@ body {
   background-color: #17a2b8;
 }
 
+.kategori-produk-product {
+  font-size: 22px;
+}
+
+.section-title-product {
+  text-align: left;
+}
+
+.section-title-product h3 {
+  font-size: 22px;
+}
+
+.section-title-product p {
+  font-size: 14px;
+}
+
 .baner-pic {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;

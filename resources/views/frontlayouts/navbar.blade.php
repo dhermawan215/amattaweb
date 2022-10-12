@@ -9,12 +9,27 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav text-uppercase mx-auto">
-                <li class="nav-item ">
-                    <a class="nav-link" href="index.html">Home</a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="product.html">Product<span class="sr-only">(current)</span></a>
-                </li>
+                @if (request()->routeIs('welcome'))
+                    <li class="nav-item active">
+                        <a class="nav-link" href="{{ route('welcome') }}">Home</a>
+                    </li>
+                @else
+                    <li class="nav-item ">
+                        <a class="nav-link" href="{{ route('welcome') }}">Home</a>
+                    </li>
+                @endif
+
+                @if (request()->routeIs('products'))
+                    <li class="nav-item active">
+                        <a class="nav-link" href="{{ route('products') }}">Product</a>
+                    </li>
+                @else
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ route('products') }}">Product</a>
+                    </li>
+                @endif
+
+
                 <li class="nav-item ">
                     <a class="nav-link" href="blog.html">Blog </a>
                 </li>
